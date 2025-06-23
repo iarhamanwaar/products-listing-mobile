@@ -1,0 +1,25 @@
+{
+    "@@locale": "en",
+    "productsAppBarTitle": "Products",
+    "@productsAppBarTitle": {
+        "description": "Text shown in the AppBar of the Products Page"
+    },
+    "errorGeneric": "An error occurred",
+    "@errorGeneric": {
+        "description": "Generic error message"
+    },
+    "errorPrefix": "Error: {message}",
+    "@errorPrefix": {
+        "description": "Error message prefix",
+        "placeholders": {
+            "message": {
+                "type": "String",
+                "example": "Failed to load products"
+            }
+        }
+    },
+    "tryAgain": "Try Again",
+    "@tryAgain": {
+        "description": "Text for try again button"
+    }
+}

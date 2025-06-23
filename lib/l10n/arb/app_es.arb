@@ -1,0 +1,7 @@
+{
+    "@@locale": "es",
+    "productsAppBarTitle": "Productos",
+    "errorGeneric": "Se produjo un error",
+    "errorPrefix": "Error: {message}",
+    "tryAgain": "Intentar de nuevo"
+}
